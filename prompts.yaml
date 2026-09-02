@@ -1,0 +1,12 @@
+# Prompts configuration file
+background: "solid pastel teal color background, flat color, no texture, 4k, transparent background"
+
+base_face: "vector cartoon human face, simple geometric shapes, flat colors, minimal shading, 2‑D illustration, transparent"
+
+hair: "disheveled short brown hair, stray strands covering forehead, few bald spots, glossy wet‑look, transparent"
+
+accessory: "torn white dress shirt, missing button, loose tie with ripped dollar‑sign print, cheap plastic credit‑card necklace, transparent"
+
+eyes: "cartoon eyes, slightly squint, lazy expression, black pupils, white sclera, transparent"
+
+mouth: "cartoon mouth, slight frown, thin line, closed lips, transparent"
